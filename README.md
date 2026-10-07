@@ -2,11 +2,10 @@
 
 ## 1. Project Title & Details
 * **Project Title:** Student Performance Analytics System
-* **Course:** Python with AI (EWB Courses)
-* **Student Name:** Abhi Dhruve
+* **Student Name:** ABHIMANYU KHAMARU
 
 ## 2. Objective
-The objective of this project is to build a Python-based data analytics application that ingests student records, computes performance statistics using NumPy and Pandas, assigns grades, assesses pass/fail criteria, and extracts valuable insights like subject-wise performance and top-performing students[cite: 1].
+The objective of this project is to build a Python-based data analytics application that ingests student records, computes performance statistics using NumPy and Pandas, assigns grades, assesses pass/fail criteria, and extracts valuable insights like subject-wise performance and top-performing students.
 
 ## 3. Technologies Used
 * **Python** (Core logic, loops, modular functions)
